@@ -1,0 +1,41 @@
+/* 
+    COLORS:
+    PETER RIVER (blue): #3498db
+*/
+
+#history{
+    width: 1140px;
+    margin: 0 auto;
+}
+
+#history .title {
+    background-color: #3498db;
+    padding: 0.2em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    border-radius: 10px;
+    font-size: 160%;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+
+#history .title h1{
+    font-weight: 100;
+    margin: 0;
+}
+
+#history table {
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+#history table, #history td, #history th{
+    border: 1px solid black;
+}
+
+#history table th, #history table td {
+    padding: 0.4em;
+}
+

@@ -1,0 +1,49 @@
+#add-history-report{
+    margin-top: 2em;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#add-history-report form{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#add-history-report form div {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+#add-history-report form div label{
+    text-transform: uppercase;
+    font-size: 120%;
+    font-weight: 100;
+    padding: 0 1em;
+}
+
+#add-history-report input[type="number"] {
+    padding: 0.2em;
+    font-size: 120%;
+    font-weight: 100;
+}
+
+#add-history-report form div, #add-history-report form input[type="submit"] {
+    margin: 1em 0em;
+}
+
+#add-history-report form input[type="submit"] {
+    padding: 0.6em;
+    width: 30%;
+}
+
+
+
+
+
+
