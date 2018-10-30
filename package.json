@@ -1,0 +1,20 @@
+{
+  "name": "car-history",
+  "version": "1.0.0",
+  "description": "",
+  "main": "elm.js",
+  "scripts": {
+    "build": "elm make src/main.elm --output=elm.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keedix/car-history.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keedix/car-history/issues"
+  },
+  "homepage": "https://github.com/Keedix/car-history#readme"
+}
